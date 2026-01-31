@@ -1,14 +1,12 @@
-# Website
-Modern multi-page website project with mobile-first UI, clean layout, and booking-ready structure. Built for performance, SEO basics, and easy future updates. Includes reusable components and deployment-ready setup.
-<!-- README.md — GitHub Profile / Portfolio (copy-paste into your repo) -->
+<!-- README.md — GitHub Portfolio -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rahmatullah Sadaqat 👋
 Web Developer focused on **modern multi-page websites** and **booking/appointment systems** (WordPress + custom builds).  
 I build sites that are **fast, mobile-first, SEO-ready**, and easy for clients to manage.
 
 ---
 
-## ✅ GitHub / Project Experience (What I Build)
+## ✅ What I Build
 - **Multi-page business websites** (landing pages, services, pricing, FAQs, contact, blog)
 - **Booking systems & scheduling flows** (availability rules, buffers, confirmations, reminders)
 - **WordPress development** (custom themes, Gutenberg blocks, plugin integrations)
@@ -24,14 +22,27 @@ I build sites that are **fast, mobile-first, SEO-ready**, and easy for clients t
 **WordPress:** Gutenberg, Custom Themes, Elementor (if requested), ACF  
 **Booking Tools:** Bookly / Amelia / Calendly-style integrations  
 **Backend (as needed):** PHP, REST APIs  
-**Tools:** Git/GitHub, Figma, Lighthouse, GTmetrix, Google Analytics, Search Console
+**Tools:** Git/GitHub, Figma, Lighthouse, GTmetrix, Google Analytics, Search Console  
 
 ---
 
-## 📌 Featured Work (Replace with your real links)
+## 🌐 Selected Work (Live Websites)
+Here are some websites I’ve worked on (design/development, improvements, and launches):
+
+- **Rahman Photonics** — https://rahmanphotonics.co.uk/  
+- **Raye’s Repair** — https://www.rayesrepair.ca/  
+- **Digital Futuro** — https://digitalfuturo.it/  
+- **AI CoreMind** — https://aicoremind.com/  
+- **KL-Railz** — https://kl-railz.nl/  
+
+---
+
+## 📌 Featured Work (GitHub Projects)
+> Add your repo links here as you publish projects.
+
 ### 1) Booking Website (Multi-Page + Scheduling)
 - **What I did:** Page structure + booking integration + mobile-first design + speed optimization  
-- **Highlights:** automated confirmations, admin calendar, service-based booking
+- **Highlights:** automated confirmations, admin calendar, service-based booking  
 - Repo/Link: https://github.com/[your-username]/[booking-project]
 
 ### 2) Service Business Website Redesign
@@ -61,8 +72,8 @@ I build sites that are **fast, mobile-first, SEO-ready**, and easy for clients t
 ---
 
 ## 📬 Contact
+- Email: torkwoodrf@gmail.com
 - Portfolio: https://[your-portfolio].com
-- Email: [your-email]  
 - LinkedIn: https://linkedin.com/in/[your-profile]
 
 ---
